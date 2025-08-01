@@ -1,6 +1,6 @@
 # Environment Setup
 Our experimental setup is fully consistent with that of the DIGA paper. 
-
+Additionally, all external links provided in the readme.md file are public resources originally shared by the authors of the DIGA paper.
 <!-- The key components of our method are implemented in the multi_proto_label function located in src/models/ttda_module.py. -->
 
 
