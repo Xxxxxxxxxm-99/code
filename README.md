@@ -1,11 +1,9 @@
-
-<!-- Our experimental setup is fully consistent with that of the DIGA paper. -->
+# Environment Setup
+Our experimental setup is fully consistent with that of the DIGA paper. 
 
 <!-- The key components of our method are implemented in the multi_proto_label function located in src/models/ttda_module.py. -->
 
 
-
-# Environment Setup
 
 Before everything start, please make sure the following environment variables(`UDATADIR, UPRJDIR, UOUTDIR`) are setup.  The following operation would only modifying the above three folders on your devices. 
 
