@@ -3,7 +3,7 @@
 
 <!-- The key components of our method are implemented in the multi_proto_label function located in src/models/ttda_module.py. -->
 
-# (DIGA)Dynamically Instance-Guided Adaptation: A Backward-free Approach for Test-Time Domain Adaptive Semantic Segmentation
+
 
 # Environment Setup
 
